@@ -51,11 +51,11 @@ The following metrics were used to evaluate the model:
 # Results
 The model achieved a ROUGE-L score of 42.032 on the testing data. This indicates that the model was able to generate summaries that were very similar to human-written summaries.
 
-
-# Developed by: [Engr. Hamza Iqbal Malik (UET TAXILA)]
-# Shared by:  [Engr. Hamza Iqbal Malik (UET TAXILA)]
-# Model type: [Medical Text Summarization Model]
-# Language(s) (NLP): [English]
-# Demo: [hamzamalik11/radiology_summarizer]
-# LinkedIn: www.linkedin.com/in/hamza-iqbal-malik-42366a239
-# HuggingFace: https://huggingface.co/hamzamalik11
+# Author Details
+Developed by: [Engr. Hamza Iqbal Malik (UET TAXILA)]
+Shared by:  [Engr. Hamza Iqbal Malik (UET TAXILA)]
+Model type: [Medical Text Summarization Model]
+Language(s) (NLP): [English]
+Demo: [hamzamalik11/radiology_summarizer]
+LinkedIn: www.linkedin.com/in/hamza-iqbal-malik-42366a239
+HuggingFace: https://huggingface.co/hamzamalik11
