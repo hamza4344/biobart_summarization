@@ -1,0 +1,8 @@
+transformers==4.21.2
+pytorch==1.9.1
+sentencepeace==0.1.97
+datasets==2.4.0
+rouge_score
+nltk==3.6.2
+pandas==2.5.3
+
